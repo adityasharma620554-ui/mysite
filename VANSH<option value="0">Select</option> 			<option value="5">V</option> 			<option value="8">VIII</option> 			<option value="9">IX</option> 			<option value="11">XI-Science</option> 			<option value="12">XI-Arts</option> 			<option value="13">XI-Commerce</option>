@@ -1,0 +1,111 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link href="MisNew.css" type="text/css" rel="stylesheet" /><title>
+
+</title></head>
+<body>
+    <form name="form1" method="post" action="./frmpubliclevelresult_23_24.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="YjfuV24bQE8pqbYgVj0rCTmSsJUminZ5/OPmQsh2H4Mh0kLNyj1L7ZN60j487+uIPpyqsOc8Q0yFgloqXxuyudqy8l0Zm7H6/+rvg+R9tmrHMWwikWd0rDUNDGE7dotVKnI7Ca+u4LaHxpixciHPGw==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="85D445A2" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="CjR+e5IGMPEvkLxRdNaRU3u/ERvrC0AtH7sRiSphuBX6OKHaEUYBT7qAop8bmrV7urrrY9FJMjDYjk8/jhJL+dUHeBtAX3W29Wkcgyr35ZEeOcGThuSSNNl5jM4/eJ9aDnZvJpVdbV+al13HIPVXPq0ln6btq4qTMvQesIiRjyfG3N6tfhdInTIZKDkQT80B/GttyPdtYLlJCBjDdEx+S7536Yxm/Y/a4MDmCqN/Eo4FbdH2wtUKzwJg8BOUIitb7JoxuY+GYBYmbOAjW1xCjicJG+b/wBJR/ATTmxm2vAMkg03dqfhC/XucuUI5ZnQk1n8u7eFasDXNI3P13JaceEH4N7fw3opUoPVY+zEk4eYTcv+jZExl2uLTloET+C0t5XPBquuFvdikHztNHhtgEblGmAJH7Z2qivUSHNI5ldDs7tYhtSHHtIgASNuYtSQO4lzEBKPjoIt+B22NDfo3rBDaU/IwrJ5KonLbVvi4fjWCBYVvWqW19A9fcwOeEBJ0w/5t/9XhelRZT8tAaLc9LGWN+TYxP/QpVaqJH+fNgbyk+qSy25kAABFmVYWsldiHQEmX52sebrAJWnsNH2n13ps0vtFDOYXdaXNQS8ZnYbz0PIjcsyzNcYjFkK4nrkVjC3AX62SUAinHXrpXND7CEb51FG4cQQsN/G71SJ2SifqNVLsQJzL1yfuF8JKtmJ9+Z8bgKSkN2vH841UlAbCLuIJnnLVc94Pj+s7DJHeaXh8tzOGCzYxb3cl0Cv+w9X9hNTmWacuUuCVEwFKEpuP1iEXTbHgzsGZvKvNLxyrrx98=" />
+</div>
+    <div>
+    
+                                 <table id="TABLE1" class="MISTable" cellspacing="1" cellpadding="1" align="center" border="1">
+	<tr>
+		<TD class="MISTestFormHeaderFont" align="center" colspan="2" height="35">&nbsp; Directorate of Education, Govt. of NCT of Delhi<br>Annual Result Academic Session 2024-25</TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD" colspan="1">
+							Student Id <font class="MISLabel" face="Verdana" size="2"><font color="#ff0000">*</font></font></TD>
+		<TD class="MISFieldCaptionTD" colspan="1">
+							<input name="txtStudentid" type="text" maxlength="11" id="txtStudentid" class="MISTextinputText" autocomplete="off" />
+                        </TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD" colspan="1">Class<font class="MISLabel" face="Verdana" size="2"><font color="#ff0000">*</font></font></TD>
+		<TD class="MISFieldCaptionTD" colspan="1">   <select name="ddlClass" id="ddlClass" class="MISDropdownbox">
+<option value="0">Select</option>
+			<option value="5">V</option>
+			<option value="8">VIII</option>
+			<option value="9">IX</option>
+			<option value="11">XI-Science</option>
+			<option value="12">XI-Arts</option>
+			<option value="13">XI-Commerce</option>
+		</select>
+                           
+                        </TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD">Section<font class="MISLabel" face="Verdana" size="2"><font color="#ff0000">*</font></font></TD>
+		<TD class="MISFieldCaptionTD"><select name="ddlSection" id="ddlSection" class="MISDropdownbox">
+			<option value="Select">Select</option>
+			<option value="A">A</option>
+			<option value="B">B</option>
+			<option value="C">C</option>
+			<option value="D">D</option>
+			<option value="E">E</option>
+			<option value="F">F</option>
+			<option value="G">G</option>
+			<option value="H">H</option>
+			<option value="I">I</option>
+			<option value="J">J</option>
+			<option value="K">K</option>
+			<option value="L">L</option>
+			<option value="M">M</option>
+			<option value="N">N</option>
+			<option value="O">O</option>
+			<option value="P">P</option>
+			<option value="Q">Q</option>
+			<option value="R">R</option>
+			<option value="S">S</option>
+			<option value="T">T</option>
+			<option value="U">U</option>
+			<option value="V">V</option>
+			<option value="W">W</option>
+			<option value="X">X</option>
+			<option value="Y">Y</option>
+			<option value="Z">Z</option>
+
+		</select>
+                        </TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD"><font class="MISLabel" face="Verdana" size="2">DOB (dd/mm/yyyy) <font color="#ff0000">*</font></font></TD>
+		<TD class="MISFieldCaptionTD"><input name="txtDOB" type="text" maxlength="10" id="txtDOB" class="mistextinputtext" autocomplete="off" /></TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD">Visual Code
+									</TD>
+		<TD><IMG alt="" src="IMG.aspx"></TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD">Type The Code Shown
+									</TD>
+		<TD>
+										<input name="txtimg" type="text" id="txtimg" class="mistextinputtext" autocomplete="off" style="width:101px;" /></TD>
+	</tr>
+	<tr>
+		<TD class="MISFieldCaptionTD" colspan="2" align="center">
+										    <input type="submit" name="btnsubmit" value="Submit" id="btnsubmit" class="MISButton" class="MISButton" />
+										    <input type="submit" name="btnback" value="Back" id="btnback" class="MISButton" class="MISButton" />
+										</TD>
+	</tr>
+</table>
+
+    
+    </div>
+        <p>
+										   
+									 
+                                            
+                                                
+              </p>
+    </form>
+</body>
+</html>
